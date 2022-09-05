@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * main: prints all arguments without using ac
+ * main - prints all arguments without using ac
  * @ac: number of arguments
  * @av: array of strings (arguments)
+ * Return: 0 - code success
  */
 
 int main(int ac, char **av)
