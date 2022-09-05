@@ -52,6 +52,7 @@ char *swap_char(char *input, int bool)
  * @head_l: head of command lines list
  * @input: input string
  * Return: no return
+ *
  */
 void add_nodes(sep_list **head_s, line_list **head_l, char *input)
 {
