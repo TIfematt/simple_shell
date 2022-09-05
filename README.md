@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./shell.png" alt="The gates of shell">
+  <img src="shell.png" alt="The gates of shell">
 </p>
 
 # Simple Shell project 0x16.c - Tisammy -
