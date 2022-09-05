@@ -51,8 +51,8 @@ char *swap_char(char *input, int bool)
  * @head_s: head of separator list
  * @head_l: head of command lines list
  * @input: input string
- * Return: no return
  *
+ * Return: no return
  */
 
 void add_nodes(sep_list **head_s, line_list **head_l, char *input)
@@ -91,6 +91,7 @@ void add_nodes(sep_list **head_s, line_list **head_l, char *input)
  * @datash: data structure
  * Return: no return
  */
+
 void go_next(sep_list **list_s, line_list **list_l, data_shell *datash)
 {
 	int loop_sep;
