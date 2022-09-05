@@ -35,8 +35,8 @@ void aux_help_alias(void)
 
 /**
  * aux_help_cd - Help information for the builtin alias.
- * Return: no return
  *
+ * Return: no return
  */
 void aux_help_cd(void)
 {
