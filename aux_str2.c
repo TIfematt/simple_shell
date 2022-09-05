@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "list.h"
 
 /**
  * _strdup - duplicates a str in the heap memory.
