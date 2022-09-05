@@ -135,6 +135,7 @@ void go_next(sep_list **list_s, line_list **list_l, data_shell *datash)
  * @input: input string
  * Return: 0 to exit, 1 to continue
  */
+
 int split_commands(data_shell *datash, char *input)
 {
 
@@ -178,8 +179,11 @@ int split_commands(data_shell *datash, char *input)
  * split_line - tokenizes the input string
  *
  * @input: input string.
+ *
  * Return: string splitted.
+ *
  */
+
 char **split_line(char *input)
 {
 	size_t bsize;
