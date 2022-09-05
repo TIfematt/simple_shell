@@ -38,6 +38,7 @@ void aux_help_alias(void)
  *
  * Return: no return
  */
+
 void aux_help_cd(void)
 {
 	char *help = "cd: cd [-L|[-P [-e]] [-@]] [dir]\n";
