@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "list.h"
 
 /**
  * swap_char - swaps | and & for non-printed chars
