@@ -54,6 +54,7 @@ char *swap_char(char *input, int bool)
  * Return: no return
  *
  */
+
 void add_nodes(sep_list **head_s, line_list **head_l, char *input)
 {
 	int i;
