@@ -141,6 +141,7 @@ void cd_previous(data_shell *datash)
  * Return: no return
  *
  */
+
 void cd_to_home(data_shell *datash)
 {
 	char *p_pwd, *home;
